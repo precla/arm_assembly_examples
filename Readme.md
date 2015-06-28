@@ -2,7 +2,7 @@
 
 # arm_assembly_examples
 
-This is a collection of small, (hopefully) working, examples of some simple programs I write while practising in arm assembly
+This is a collection of small, (hopefully) working, examples of some simple programs I write while practising in arm assembly. More will be added as I do more practising.
 
 ## Usage:
 1. Install [Keil µVision](https://www.keil.com/demo/eval/arm.htm) (v5.15 or above, but it should also work on 5.xx).
